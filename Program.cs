@@ -10,6 +10,11 @@ namespace Programacion101_Practica01
     {
         static void Main(string[] args)
         {
+            /* 
+            ESCRIBE UN PROGRAMA QUE LE PIDA AL USUARIO LA ALTURA Y ANCHURA DE UN RECTANGULO
+            Y LE DEVUELVA EL AREA DEL MISMO.
+            */
+            
             Rectangulo rec01 = new Rectangulo();
 
             Console.WriteLine("Ingrese la altura del rectánguilo en cms...");
