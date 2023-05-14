@@ -1,4 +1,4 @@
-# Programacion101_Practica01
+# Programacion101_Practica01_Ejercicio01
 
 Programacion 101 Practica 01 Ejercicio 01:
 Consigna:
